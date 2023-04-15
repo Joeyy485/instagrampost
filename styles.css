@@ -1,0 +1,26 @@
+p{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.post-icons{
+    display: flex;
+    flex-direction: row;
+}
+
+.post-icons2{
+        display: flex;
+        justify-content: right;
+
+}
+
+.bookmark{
+    display: flex;
+    justify-content: right;
+    margin: -3px
+}
+
+.post-headertext {
+    margin: 0px;
+    line-height: 0px;
+}
